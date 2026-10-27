@@ -1,0 +1,7 @@
+# raw and derived data
+*.xlsx
+*.csv
+data/
+outputs/
+.ipynb_checkpoints/.DS_Store
+.DS_Store
